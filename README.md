@@ -20,7 +20,7 @@ Also, you can find the presentation of the study itself in the folder called "Pr
 
 This study is included within the module 3 of the Data science masters of the University of Seville.
 
-3. Acknowledgments
+2. Acknowledgments
 --------------
 
 * https://github.com/perrygeo/simanneal/
