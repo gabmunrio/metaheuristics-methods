@@ -30,3 +30,4 @@ This study is included within the module 3 of the Data science masters of the Un
 * https://gist.github.com/741853
 * http://www.math.unipd.it/~marcuzzi/DIDATTICA/LEZ&ESE_PIAI_Matematica/3_cones.pdf
 * http://oco-carbon.com/metrics/find-pareto-frontiers-in-python/
+* http://www.cleveralgorithms.com/
