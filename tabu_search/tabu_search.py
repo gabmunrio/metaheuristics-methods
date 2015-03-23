@@ -1,7 +1,10 @@
 '''
-Created on Jun 20, 2011
+Created on Jun 17, 2011
+@author: Sai Panyam
 
-@author: Sai
+Credits
+Inspired by Clever Algorithms by Jason Brownlee
+www.cleveralgorithms.com
 '''
 import math
 import random
